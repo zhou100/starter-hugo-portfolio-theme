@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Peachy Americano
+      tag: cold
+    - name: Guihua Latte
+      tag: latte
+    - name: Sweet Rice Latte
+      tag: latte
 
 design:
   columns: '1'

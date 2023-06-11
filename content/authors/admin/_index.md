@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: EARLY RETIREMENT COFFEE (早退咖啡)
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Serving coffee drinks with Asian inspired flavors
 
 #interests:
 #- Artificial Intelligence
@@ -45,12 +45,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+ # - icon: twitter
+ #   icon_pack: fab
+ #   link: https://twitter.com/
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/ercoffee.co/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +66,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Early Retirement Coffee is a local business based in San Mateo, California, that specializes in serving coffee drinks with Asian-inspired flavors. With a unique concept and a focus on creating a memorable coffee experience, Early Retirement Coffee has become a beloved destination for coffee enthusiasts in the area. Their menu features a delightful selection of handcrafted beverages that incorporate traditional Asian ingredients and flavors, providing customers with a taste that is both familiar and adventurous. From aromatic matcha lattes infused with delicate hints of jasmine to rich Vietnamese iced coffee blended with sweet condensed milk, each sip at Early Retirement Coffee takes customers on a flavorful journey.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Founded by passionate coffee connoisseurs, Early Retirement Coffee takes pride in sourcing high-quality beans and ingredients to ensure the utmost taste and freshness in every cup. The business's commitment to exceptional service and attention to detail is evident in the care taken to craft each beverage with precision and artistry. Whether customers are seeking a quick pick-me-up or a relaxing coffee experience, Early Retirement Coffee offers a cozy and inviting atmosphere where they can unwind and savor their drink. As a local business deeply rooted in the San Mateo community, Early Retirement Coffee has become a go-to spot for residents and visitors alike, providing a unique and flavorful coffee experience that truly sets them apart.
