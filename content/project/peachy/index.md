@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
+title: Peachy Americano
 summary: Write about your project here...
 tags:
-  - CV
+  - cold
 date: 2022-01-01
-external_link: http://github.com
+external_link:
 ---
