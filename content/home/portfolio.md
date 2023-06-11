@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Peachy Americano
+    - name: Best Sellers
+      tag: '*'
+    - name: Latte
+      tag: latte
+    - name: Cold drinks
       tag: cold
-    - name: Guihua Latte
-      tag: latte
-    - name: Sweet Rice Latte
-      tag: latte
 
 design:
   columns: '1'
