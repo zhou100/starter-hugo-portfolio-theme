@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
-    local_business_type: ''
+    site_type: Business
+    local_business_type: 'coffee'
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'A website about a local coffee business'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -41,12 +41,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Early Retirement Coffee. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+    notice: '© {year} Early Retirement Coffee.'
+#    license:
+#      enable: false
+#      allow_derivatives: false
+#      share_alike: false
+#      allow_commercial: false
 
 # Localization
 
@@ -58,7 +58,7 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
+    enable: false
     extra_languages:
       - r
       - latex
