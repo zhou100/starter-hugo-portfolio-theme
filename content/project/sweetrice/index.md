@@ -1,8 +1,10 @@
 ---
 title: Sweet Rice latte
-summary: Sweet Rice Latte is a delightful and comforting beverage that blends the rich flavors of rice and the sweetness of milk into a satisfying drink. The unique combination of ingredients creates a smooth and velvety texture, making it a perfect choice for those seeking a cozy and comforting beverage.
+summary: a delightful and comforting blend of rich rice flavors and sweet milk, offering a smooth and velvety texture for a cozy and satisfying experience.
 tags:
   - latte
 date: 2022-01-01
 # external_link: 
 ---
+
+
